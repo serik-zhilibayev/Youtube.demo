@@ -19,6 +19,7 @@ public class LinkedListQueue<T> implements Queue<T>{
     
     public LinkedListQueue(){
         size = 0;
+        size = 0;
         front = null;
         back = null;
     }
